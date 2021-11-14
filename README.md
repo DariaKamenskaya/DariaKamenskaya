@@ -18,6 +18,7 @@
 ![Webpack](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/webpack.png)
 ![Git](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/git.png)
 ![Visial Studio Code](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/visual-studio-code.png)
+![Figma](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/figma.png)
 
 
 <!--
