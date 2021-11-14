@@ -3,12 +3,12 @@
  👋
 Я начинающий фронтенд разработчик. Ежедневно развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои пет-проекты и узнать немного обо мне.
 
-🔨 Мой стек:
-![HTML](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/html.svg)
-![CSS](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/css.svg)
-![JavaScript](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/javascript.svg)
-![React](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/react.svg)
-![Git](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/git.svg)
+🔨 Мой стек:  
+![HTML](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/html.png)
+![CSS](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/css3.png)
+![JavaScript](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/javascript.png)
+![React](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/react.png)
+![Git](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/git.png)
 
 
 <!--
