@@ -1,15 +1,22 @@
-### Добро пожаловать на мой GitHub 👋
+### Всем привет, меня зовут Дарья 👋
 
- 👋
-Я начинающий фронтенд разработчик. Ежедневно развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои пет-проекты и узнать немного обо мне.
+Я начинающий фронтенд разработчик. 
+  
+- :ninja: Стремлюсь к работе с настоящими боевыми проектами
+- :🔭: Мечтаю работать с опытными коллегами
+- :📝: Хочу научиться писать чистый и понятный код
+- :🎓: Освоить новые фреймворки
+- :💫: Творить красоту во всемирной паутине!
 
 🔨 Мой стек:  
+  
 ![HTML](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/html.png)
 ![CSS](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/css3.png)
 ![JavaScript](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/javascript.png)
 ![React](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/react.png)
 ![Webpack](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/webpack.png)
 ![Git](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/git.png)
+![Visial Studio Code](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/visual-studio-code.png)
 
 
 <!--
