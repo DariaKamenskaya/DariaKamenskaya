@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Добро пожаловать на мой GitHub 👋
+Я начинающий фронтенд разработчик. Ежедневно развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои пет-проекты и узнать немного обо мне.
+
+🔨 Мой стек:
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+
 <!--
 **DariaKamenskaya/DariaKamenskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
