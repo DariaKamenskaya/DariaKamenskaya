@@ -8,6 +8,7 @@
 ![CSS](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/css3.png)
 ![JavaScript](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/javascript.png)
 ![React](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/react.png)
+![Webpack](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/webpack.png)
 ![Git](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/git.png)
 
 
