@@ -1,14 +1,14 @@
-### Всем привет, меня зовут Дарья 👋
+### Всем привет, меня зовут Дарья ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/hi.png)
 
 Я начинающий фронтенд разработчик. 
   
-- ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/rocket.png) Стремлюсь к работе с настоящими боевыми проектами
-- ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/telestars.png) Мечтаю работать с опытными коллегами
-- ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/pen.png) Хочу научиться писать чистый и понятный код
-- ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/cap.png) Освоить новые фреймворки
-- ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/stars.png) Творить красоту во всемирной паутине!
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/rocket.png) Стремлюсь к работе с настоящими боевыми проектами
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/telestars.png) Мечтаю работать с опытными коллегами
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/pen.png) Хочу научиться писать чистый и понятный код
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/cap.png) Освоить новые фреймворки
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/stars.png) Творить красоту во всемирной паутине!
 
-🔨 Мой стек:  
+![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/molot.png) Мой стек:  
   
 ![HTML](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/html.png)
 ![CSS](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/css3.png)
