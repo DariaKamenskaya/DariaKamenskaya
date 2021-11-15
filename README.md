@@ -1,6 +1,7 @@
 ### Всем привет, меня зовут Дарья ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/hi.png)
 
 Я начинающий фронтенд разработчик. 
+<img align='right' src="https://giphy.com/embed/TEiaISogqJgrEuocni/giphy.gif" width="230">
   
 ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/rocket.png) Стремлюсь к работе с настоящими боевыми проектами  
 ![](https://github.com/DariaKamenskaya/DariaKamenskaya/blob/main/images/telestars.png) Мечтаю работать с опытными коллегами  
