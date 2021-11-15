@@ -1,4 +1,4 @@
-### Всем привет, меня зовут Дарья! <img src="https://media.giphy.com/media/EFW8TQLhO3BJBZQEhp/giphy.gif" width="80">
+### Всем привет, меня зовут Дарья! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Я начинающий фронтенд разработчик. 
 <img align='right' src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="230">
